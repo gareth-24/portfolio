@@ -9,8 +9,8 @@ h1 {
   border-width: 3px;
   padding: 1%;
   border-color: black;
-  margin-right: 10%;
-  background-color: rgb(160, 160, 160);
+  margin-right: 30%;
+  background-color: rgb(200, 200, 200);
 }
 img {
   float: right;
@@ -21,14 +21,14 @@ img {
   padding: 1%;
   margin: 6%;
   border-color: black;
-  background-color: rgb(160, 160, 160);
+  background-color:rgb(200, 200, 200);
 }
 .column {
-  float: inline-start;
+  float:left;
   box-sizing: border-box;
-  width: 700px;
   margin: 20px;
-  padding: 1%;
+  padding: 5px;
+  width: 30%;
 }
 .column p {
   text-align: left;

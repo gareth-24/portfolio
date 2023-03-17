@@ -1,0 +1,33 @@
+body{
+  font-family:arial;
+  background-color: aliceblue;
+  margin: 40px;
+}
+h1{
+  font-size: 32px;
+  border: solid;
+  border-width: 3px;
+  padding: 1%;
+  border-color: black;
+  margin-right: 30%;
+  background-color: rgb(160, 160, 160);
+}
+img{
+
+  box-sizing: border-box;
+  width: 450px;;
+  border: solid;
+  border-width: 4px;
+  padding: 1%;
+  margin: 4%;
+  border-color: black;
+  background-color: rgb(160, 160, 160);
+}
+.column{
+  float:left;
+  width: 500px;
+  margin: 20px;
+}
+.column p {
+  text-align: left;
+}

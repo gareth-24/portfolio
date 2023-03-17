@@ -13,25 +13,26 @@ h1 {
   background-color: rgb(160, 160, 160);
 }
 img {
-
+  float: right;
   box-sizing: border-box;
-  width: 400px;;
+  width: 250px;
   border: solid;
   border-width: 3px;
   padding: 1%;
-  margin: 4%;
+  margin: 6%;
   border-color: black;
   background-color: rgb(160, 160, 160);
 }
 .column {
-  float:left;
-
-  width: 650px;
+  float: inline-start;
+  box-sizing: border-box;
+  width: 700px;
   margin: 20px;
+  padding: 1%;
 }
 .column p {
   text-align: left;
-  line-height: 125%;
+  line-height: 130%;
 }
 .lang {
   font-weight:500;

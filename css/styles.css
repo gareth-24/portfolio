@@ -1,33 +1,40 @@
-body{
+body {
   font-family:arial;
   background-color: aliceblue;
   margin: 40px;
 }
-h1{
+h1 {
   font-size: 32px;
   border: solid;
   border-width: 3px;
   padding: 1%;
   border-color: black;
-  margin-right: 30%;
+  margin-right: 10%;
   background-color: rgb(160, 160, 160);
 }
-img{
+img {
 
   box-sizing: border-box;
-  width: 450px;;
+  width: 400px;;
   border: solid;
-  border-width: 4px;
+  border-width: 3px;
   padding: 1%;
   margin: 4%;
   border-color: black;
   background-color: rgb(160, 160, 160);
 }
-.column{
+.column {
   float:left;
-  width: 500px;
+
+  width: 650px;
   margin: 20px;
 }
 .column p {
   text-align: left;
+  line-height: 125%;
+}
+.lang {
+  font-weight:500;
+  color: rgb(30, 165, 51);
+  font-style: oblique;
 }

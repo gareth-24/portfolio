@@ -4,9 +4,10 @@ body {
   margin: 40px;
 }
 h1 {
-  font-size: 32px;
-  border: solid;
-  border-width: 3px;
+  font-size: 34px;
+  border-bottom: solid;
+  border-left: solid;
+  border-width: 2px;
   padding: 1%;
   border-color: black;
   margin-right: 30%;

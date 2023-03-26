@@ -9,8 +9,8 @@
 * Git
 * HTML
 * CSS
-* Dillinger online markdown editor
 * Bootstrap version 5.2.3
+* Dillinger online markdown editor
 
 ## Description
 
@@ -18,7 +18,10 @@ _This is a student project built using HTML and CSS in order to demonstrate the 
 
 ## Setup/Installation Requirements
 
-* _Open portfolio/index.html in your browser or visit the link https://gareth-24.github.io/portfolio/_
+* _Clone this repository to your desktop._
+* _Navigate to the top level of the directory._
+* _Open index.html in your browser._
+* _Alternatively, visit the link https://gareth-24.github.io/portfolio/ to view the webpage._
 
 
 ## Known Bugs
@@ -27,5 +30,6 @@ _This is a student project built using HTML and CSS in order to demonstrate the 
 
 ## License
 
-_This project does not contain any license or copyright._
+_MIT_
+_Copyright (c) 2023 Gareth Grindeland_
 
